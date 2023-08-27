@@ -15,22 +15,19 @@
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ James O'Brien | escape }}</li>
+            <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ jamesobrien.93@outlook.com }}">{{ jamesobrien.93@outlook.com }}</a></li>
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
         </ul>
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ Personal Blog used as sample website to share files and tech posts. | escape }}</p>
+        <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
     <div class="social-links">
       {%- include social.html -%}
     </div>
