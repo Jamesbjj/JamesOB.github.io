@@ -1,5 +1,5 @@
-<li>{% assign entry = include.item %}
-  <a {% unless entry.platform == 'rss' %}rel="me" {% endunless %}href="www.https://github.com/Jamesbjj" target="_blank" title="James-github">
+<li>
+  <a {% unless entry.platform == 'rss' %}rel="me" {% endunless %}href="https://github.com/Jamesbjj" target="_blank" title="James-github">
     <svg class="svg-icon grey">
       <use xlink:href="/assets/minima-social-icons.svg#github"></use>
     </svg>
@@ -7,7 +7,7 @@
   </a>
 </li>
 
-<li>{% assign entry = include.item %}
+<li>
   <a {% unless entry.platform == 'rss' %}rel="me" {% endunless %}href="https://twitter.com/James_dm5" target="_blank" title="{{ entry.title | default: entry.platform }}">
     <svg class="svg-icon grey">
       <use xlink:href="/assets/minima-social-icons.svg#twitter"></use>
