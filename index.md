@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-<p>Welcome to my Blog used as sample website using Github pages </p>
+<h2>Welcome to my Blog used as sample website using Github pages </h2>
