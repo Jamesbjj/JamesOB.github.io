@@ -1,8 +1,3 @@
 
----
-layout: page
-title: Spain2023
-permalink: /Spain2023/
----
-
+<h3> About spain </h3>
 <p>hello world</p>
