@@ -4,4 +4,10 @@ title: "La feria de Abril"
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ La Feria de Abril is a spring festival held annually in Seville, where the public gathers in a large enclosure called the Real de la Feria, with flamenco and Sevillian costumes,the streets are covered with ephemeral booths, decorated with lanterns, through which riders and horse-drawn carriages circulate and bring families and people attending to there booths . As they say "Casetas"
+
+ This is my favourite place to go and expericence all things Spanish. Flamenco and traditional music food and clothes.
+
+ To enter the fair gounds you must first past trough the massive Golden Gates, these are illuminated by lights. Every year the main entrance to La Feria is changed and it is a spectacular sight that leaves you amazed.
+ 
+ 
