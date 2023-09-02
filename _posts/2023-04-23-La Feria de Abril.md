@@ -11,6 +11,6 @@ categories: misc
  To enter the fair gounds you must first past trough the massive Golden Gates, these are illuminated by lights. Every year the main entrance to La Feria is changed and it is a spectacular sight that leaves you amazed.
 
  <p>Check out this beautiful picture of the Main entrance</p>
-    <img src="images/IMG_6260.jpg" alt="Spain Vacation">
+    <img src="/images/IMG_6260.jpg" alt="n">
  
  
