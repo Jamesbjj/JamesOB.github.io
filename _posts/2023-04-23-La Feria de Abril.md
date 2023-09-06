@@ -21,7 +21,7 @@ This Fair even though open to the public, to enter the tents you must be a invit
 
  <h1>Watch this YouTube Video</h1>
  
- <iframe width="560" height="315" src="https://youtube.com/shorts/HHn54ASKrME" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://youtube.com/shorts/HHn54ASKrME?si=HzVOZSTJElJ8Tq5B" frameborder="0" allowfullscreen></iframe>
 
  
 
